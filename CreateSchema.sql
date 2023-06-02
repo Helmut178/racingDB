@@ -1,0 +1,1 @@
+CREATE DATABASE demoracedb CHARACTER SET utf8mb4;
