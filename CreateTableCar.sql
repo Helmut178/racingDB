@@ -7,6 +7,7 @@ CREATE TABLE demoracedb.car (
 	startNo		SMALLINT UNSIGNED,
 	registered	DATE,
 	carImgLink	VARCHAR(200),
+	carImage    LONGBLOB,
 	PRIMARY KEY	(carId)
 );
 
